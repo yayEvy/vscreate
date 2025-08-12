@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+
+license="${mod_license}" # MIT
+
+issueTrackerURL="https://github.com/yayEvy/vscreate/issues"
+
+[[mods]] #mandatory
+modId="vscreate"
+version="${mod_version}"
+displayName="${mod_name}"
+
+displayURL="https://github.com/yayEvy/vscreate"
+
+logoFile="image.png"
+
+#credits="" #optional
+
+authors="${mod_authors}"
+
+description='''${mod_description}'''
+
+# dependencies
+[[dependencies.vscreate]]
+    modId="forge"
+    mandatory=true #mandatory is mandatory
+    versionRange="${forge_version_range}"
+
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.vscreate]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+
+    ordering="NONE"
+    side="BOTH"
