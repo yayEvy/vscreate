@@ -36,3 +36,20 @@ description='''${mod_description}'''
 
     ordering="NONE"
     side="BOTH"
+
+# version ranges might need to be changed later
+[[dependencies.vscreate]]
+    modId="valkyrienskies"
+    mandatory=true
+    versionRange="[2.5.0-beta.3+237c68468b]"
+
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.vscreate]]
+    modId="create"
+    mandatory=true
+    versionRange="[0.5.1.j-55]"
+
+    ordering="NONE"
+    side="BOTH"
