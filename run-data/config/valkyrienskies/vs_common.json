@@ -1,0 +1,6 @@
+{
+  "ADVANCED" : {
+    "renderPathfinding" : false
+  },
+  "$schema" : "schemas/vs_common.schema.json"
+}

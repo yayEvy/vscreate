@@ -1,0 +1,12 @@
+// 1.20.1	2025-08-15T11:59:33.5051307	Registrate Provider for vscreate [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
+063a9cdc8029d5cbc355570263733699a4f1ac03 assets/vscreate/blockstates/gilded_obsidian.json
+5741dc0618b857e009a4e137ce1d51dccaefcba9 assets/vscreate/lang/en_ud.json
+54c37150c42d7e0b6c38e85c87c8b60772dc20ee assets/vscreate/lang/en_us.json
+9d6d3d8ce492568e6538b160035c684aead2a736 assets/vscreate/models/block/gilded_obsidian.json
+8213b11e0280224bf22143344254a32fbe4f8c7e assets/vscreate/models/item/copper_whisk.json
+b9e8a0c1c9d67434ad4229e461893fc29f097a1a assets/vscreate/models/item/gilded_obsidian.json
+cf2845aa8e70f8cc1de4881ecc0e275b68f0f8dd data/forge/tags/blocks/obsidians.json
+cf2845aa8e70f8cc1de4881ecc0e275b68f0f8dd data/forge/tags/items/obsidians.json
+cf2845aa8e70f8cc1de4881ecc0e275b68f0f8dd data/minecraft/tags/blocks/mineable/pickaxe.json
+cf2845aa8e70f8cc1de4881ecc0e275b68f0f8dd data/minecraft/tags/blocks/needs_diamond_tool.json
+ec248c0b99a4ce708c9dc8ce3d7ae2ccba89663e data/vscreate/loot_tables/blocks/gilded_obsidian.json

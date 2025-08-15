@@ -1,3 +1,7 @@
 {
-  "variants" : { "": { "model": "vscreate:block/gilded_obsidian" } }
+  "variants": {
+    "": {
+      "model": "vscreate:block/gilded_obsidian"
+    }
+  }
 }
